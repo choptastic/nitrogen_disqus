@@ -3,7 +3,6 @@
 		developer=false, 
 		identifier, 
 		url,
-		title, 
 		comment_text="Comments",
 		countonly=false
 	}).
